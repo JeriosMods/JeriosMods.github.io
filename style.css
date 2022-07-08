@@ -3,3 +3,9 @@
 body {
   text-align: center;
 }
+h1.red {
+  color: red;
+}
+h1.blueh1ele {
+  color: blue;
+}
