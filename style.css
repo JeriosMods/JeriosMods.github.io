@@ -27,3 +27,8 @@ p{
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+a:hover {
+  transition: 500ms;
+  color: red;
+}
