@@ -16,18 +16,18 @@ p{
 }
 
 .container {
-  position: relative;
-  text-align: center;
-  color: white;
-  width: 1500px;
-  height: 1500px;;
+  position: relative !important;
+  text-align: center !important;
+  color: white !important;
+  width: 1500px !important;
+  height: 1500px !important;
 }
 
 .centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  position: absolute !important;
+  top: 50% !important ;
+  left: 50% !important ;
+  transform: translate(-50%, -50%) !important ;
 }
 
 a:hover {
