@@ -19,6 +19,8 @@ p{
   position: relative;
   text-align: center;
   color: white;
+  width: 1500px;
+  height: 1500px;;
 }
 
 .centered {
@@ -31,4 +33,14 @@ p{
 a:hover {
   transition: 500ms;
   color: red;
+  background-color: red;
+  list-style: none;
+}
+
+img.jerios{
+  text-align: left;
+}
+
+h1.moddev {
+  text-align: left;
 }
