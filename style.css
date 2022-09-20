@@ -33,6 +33,5 @@ p{
 a:hover {
   transition: 500ms;
   color: red;
-  background-color: red;
   list-style: none;
 }
