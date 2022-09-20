@@ -9,3 +9,8 @@ h1.red {
 h1.blueh1ele {
   color: blue;
 }
+
+p{
+  font-size: 14px;
+  line-height: 1.428;
+}
