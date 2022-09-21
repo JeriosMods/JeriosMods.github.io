@@ -2,5 +2,5 @@ img.jerios {display: block; margin-left: 50; margin-right: 50; width: 50%;}
 img.github {display: block;margin-left: 50;margin-right: 50;width: 20%;}
 p{font-size: 14px; line-height: 1.428;}
 footer {position: sticky; position: -webkit-sticky}
-body {text-align: center; cursor: url(mc_cursor.png), auto;}
+body {text-align: center; cursor: url(mc_cursor.png), auto; background-color: #7f7f7f !important; color: white !important;}
 a:hover {transition: 500ms;color: red;list-style: none;}
