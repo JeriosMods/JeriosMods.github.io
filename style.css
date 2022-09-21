@@ -25,7 +25,7 @@ body {
     color: white !important;
 }
 a:hover {
-    transition: 500ms;
+    transition: 750ms;
     color: red;
     list-style: none;
 }
