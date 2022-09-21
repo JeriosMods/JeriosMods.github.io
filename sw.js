@@ -4,6 +4,11 @@ var version = 'v2.0.24:';
 
 var offlineFundamentals = [
     '/',
+    'jerios.png',
+    'mc_cursor.png',
+    'curselogo.png',
+    'github-mark-120px-plus_orig',
+    'main_dark_ing.png',
     '/offline/'
 ];
 
