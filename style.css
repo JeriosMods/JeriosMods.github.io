@@ -29,18 +29,17 @@ a:hover {
     color: red;
     list-style: none;
 }
-textarea:hover {
-    background-color: #7f7f7f;
-    transition: 1000ms;
-}
 input:hover {
     background-color: 7f7f7f;
     transition: 1000ms;
 }
-
-textarea:checked {
+textarea:hover {
+    background-color: #7f7f7f;
+    transition: 1000ms;
+}
+textarea:active {
     background-color: #7f7f7f;
 }
-input:checked {
+input:active {
     background-color: #7f7f7f;
 }
