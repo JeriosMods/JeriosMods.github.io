@@ -4,35 +4,8 @@ body {
   text-align: center;
   cursor: url(mc_cursor.png), auto;
 }
-h1.red {
-  color: red;
-}
-h1.blueh1ele {
-  color: blue;
-}
-
-p{
-  font-size: 14px;
-  line-height: 1.428;
-}
-
 a:hover {
   transition: 500ms;
   color: red;
   list-style: none;
-}
-
-
-img.jerios {
-  display: block;
-  margin-left: 50;
-  margin-right: 50;
-  width: 50%;
-}
-
-img.github {
-  display: block;
-  margin-left: 50;
-  margin-right: 50;
-  width: 20%;
 }
