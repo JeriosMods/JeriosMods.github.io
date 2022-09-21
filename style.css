@@ -4,6 +4,7 @@ body {
   text-align: center;
   background-color: black;
   cursor: url(mc_cursor.png), auto;
+  color: white;
 }
 h1.red {
   color: red;
