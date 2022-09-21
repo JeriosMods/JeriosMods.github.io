@@ -30,8 +30,10 @@ a:hover {
     list-style: none;
 }
 textarea:hover {
-    background-color: blanchedalmond;
+    background-color: #7f7f7f;
+    transition: 1000ms;
 }
 input:hover {
-    background-color: blanchedalmond;
+    background-color: 7f7f7f;
+    transition: 1000ms;
 }
