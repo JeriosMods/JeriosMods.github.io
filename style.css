@@ -2,6 +2,8 @@
 
 body {
   text-align: center;
+  background-color: black;
+  cursor: url(mc_cursor.png), auto;
 }
 h1.red {
   color: red;
