@@ -37,3 +37,10 @@ input:hover {
     background-color: 7f7f7f;
     transition: 1000ms;
 }
+
+textarea:checked {
+    background-color: #7f7f7f;
+}
+input:checked {
+    background-color: #7f7f7f;
+}
