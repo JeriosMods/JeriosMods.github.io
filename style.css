@@ -69,6 +69,7 @@ img.llbzoom:hover {
 }
 
 .parent {
+    background-color: #2196F3;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(5, 1fr);
