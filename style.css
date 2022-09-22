@@ -67,3 +67,12 @@ img.llbzoom:hover {
     transition: 0.5s all ease-in-out;
     cursor: pointer !important;
 }
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+    .div1 { grid-area: 1 / 2 / 5 / 5; }
