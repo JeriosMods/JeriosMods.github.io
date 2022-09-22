@@ -29,7 +29,7 @@ a:hover {
     color: red;
     list-style: none;
     border-bottom: 5px solid rgb(4, 0, 255);
-
+    width: 20px;
 }
 input:hover {
     background-color: 7f7f7f;
