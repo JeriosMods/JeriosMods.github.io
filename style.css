@@ -60,9 +60,10 @@ button {
     display: inline-block;
     font-size: 16px;
 }
-image:hover {
+img.llbzoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
     transform: scale(1.5);
-}
-img:hover {
-    transform: scale(1.5);
+    transition: 0.5s all ease-in-out;
+    cursor: pointer !important;
 }
