@@ -11,13 +11,13 @@ img.github {
     width: 20%;
 }
 
-li.homemod{
+li.homemod:hover{
     border-bottom: 10px solid rgb(4, 0, 255);
     width: 50px;
     transition: 100ms;
 }
 
-li.navmods{
+li.navmods:hover{
     border-bottom: 10px solid rgb(4, 0, 255);
     width: 50px;
     transition: 100ms;
