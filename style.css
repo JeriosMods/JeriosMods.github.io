@@ -60,3 +60,6 @@ button {
     display: inline-block;
     font-size: 16px;
 }
+image:hover {
+    transform: scale(1.5);
+}
