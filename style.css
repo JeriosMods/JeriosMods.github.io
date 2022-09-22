@@ -4,6 +4,11 @@ img.jerios {
     margin-right: 50; 
     width: 50%;
 }
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 img.github {
     display: block;
     margin-left: 50;
