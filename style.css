@@ -10,6 +10,19 @@ img.github {
     margin-right: 50;
     width: 20%;
 }
+
+li.homemod{
+    border-bottom: 10px solid rgb(4, 0, 255);
+    width: 50px;
+    transition: 100ms;
+}
+
+li.navmods{
+    border-bottom: 10px solid rgb(4, 0, 255);
+    width: 50px;
+    transition: 100ms;
+}
+
 p{
     font-size: 14px; 
     line-height: 1.428;
