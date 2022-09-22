@@ -10,19 +10,6 @@ img.github {
     margin-right: 50;
     width: 20%;
 }
-
-li.homemod:hover{
-    border-bottom: 10px solid rgb(4, 0, 255);
-    width: 50px;
-    transition: 100ms;
-}
-
-li.navmods:hover{
-    border-bottom: 10px solid rgb(4, 0, 255);
-    width: 50px;
-    transition: 100ms;
-}
-
 p{
     font-size: 14px; 
     line-height: 1.428;
@@ -41,7 +28,7 @@ a:hover {
     transition: 750ms;
     color: red;
     list-style: none;
-    border-bottom: 10px solid rgb(4, 0, 255);
+    border-bottom: 5px solid rgb(4, 0, 255);
 
 }
 input:hover {
