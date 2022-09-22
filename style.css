@@ -63,3 +63,6 @@ button {
 image:hover {
     transform: scale(1.5);
 }
+img:hover {
+    transform: scale(1.5);
+}
