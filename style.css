@@ -28,6 +28,8 @@ a:hover {
     transition: 750ms;
     color: red;
     list-style: none;
+    border-bottom: 3px solid red;
+
 }
 input:hover {
     background-color: 7f7f7f;
@@ -42,8 +44,4 @@ textarea:active {
 }
 input:active {
     background-color: #7f7f7f;
-}
-
-li a:hover {
-    border-bottom: 3px solid red;
 }
