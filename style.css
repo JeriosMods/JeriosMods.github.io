@@ -28,7 +28,7 @@ a:hover {
     transition: 750ms;
     color: red;
     list-style: none;
-    border-bottom: 3px solid red;
+    border-bottom: 10px solid rgb(4, 0, 255);
 
 }
 input:hover {
