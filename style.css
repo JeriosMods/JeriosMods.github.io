@@ -46,7 +46,7 @@ input:active {
     background-color: #7f7f7f;
 }
 button {
-    background-color: red;
+    background-color: rgb(0, 68, 255);
     border: none;
     color: white;
     padding: 15px 32px;
