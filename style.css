@@ -41,7 +41,7 @@ body {
     background-color: black; 
     color: white ;
 }
-a.homemod:hover {
+a.homemod:hover::after  {
     -webkit-transition: 750ms;
     -o-transition: 750ms;
     transition: 750ms;
@@ -50,7 +50,7 @@ a.homemod:hover {
     border-bottom: 5px solid rgb(4, 0, 255);
     width: 20px;
 }
-a.navmods:hover {
+a.navmods:hover::after {
     -webkit-transition: 750ms;
     -o-transition: 750ms;
     transition: 750ms;
