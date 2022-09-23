@@ -19,10 +19,6 @@ p{
     font-size: 14px; 
     line-height: 1.428;
 }
-footer {
-    position: sticky; 
-    position: -webkit-sticky
-}
 body {
     text-align: center; 
     cursor: url(mc_cursor.png), auto; 
@@ -61,22 +57,9 @@ button {
     font-size: 16px;
 }
 img.llbzoom:hover {
-    -ms-transform: scale(1); /* IE 9 */
-    -webkit-transform: scale(1); /* Safari 3-8 */
-    transform: scale(1);
-    transition: 1.8s all ease-in-out;
+    -ms-transform: scale(0.5); /* IE 9 */
+    -webkit-transform: scale(0.5); /* Safari 3-8 */
+    transform: scale(0.5);
+    transition: 0.7s all ease-in-out;
     cursor: pointer !important;
-}
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  background-color: #2196F3;
-  padding: 10px;
-}
-.grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
 }
