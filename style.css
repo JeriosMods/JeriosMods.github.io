@@ -16,13 +16,14 @@ img.jerios {
     width: 50%;
 }
 img.jerioslogo {
+    position: absolute;
     float: left;
 }
 ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    font-size: 20px;
+    font-size: 50px;
 }
 img.github {
     display: block;
