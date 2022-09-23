@@ -9,9 +9,7 @@ var offlineFundamentals = [
     'curselogo.png',
     'github-mark-120px-plus_orig',
     'main_dark_ing.png',
-    '/css/bootstrap.min.css',
-    '/css/bootstrap.min.css.map',
-    '/js/bootstrap.min.js',
+    '/style.css',
     '/offline/'
 ];
 
