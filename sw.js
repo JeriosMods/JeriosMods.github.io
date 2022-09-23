@@ -7,7 +7,10 @@ var offlineFundamentals = [
     'jerios.png',
     'mc_cursor.png',
     'curselogo.png',
-    'github-mark-120px-plus_orig',
+    'github-mark-120px-plus_orig.png',
+    '20220707_211832_0000.png',
+    'crafting_dead_plus_plus_preveiw.png',
+    'lava_lucky_block_preveiw.png',
     'main_dark_ing.png',
     '/style.css',
     '/offline/'
