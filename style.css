@@ -95,6 +95,7 @@ button {
     justify-content: center;
     align-items: stretch;
     align-content: normal;
+    background-color: #7f7f7f;
   }
   
   .flex-items:nth-child(1) {
@@ -104,4 +105,5 @@ button {
     flex-basis: auto;
     align-self: auto;
     order: 0;
+    background-color: #7f7f7f;
   }
