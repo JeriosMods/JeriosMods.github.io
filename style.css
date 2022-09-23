@@ -41,16 +41,7 @@ body {
     background-color: black; 
     color: white ;
 }
-a::hover {
-    -webkit-transition: 750ms;
-    -o-transition: 750ms;
-    transition: 750ms;
-    color: red;
-    list-style: none;
-    border-bottom: 5px solid rgb(4, 0, 255);
-    width: 20px;
-}
-a::hover{
+a:hover{
     -webkit-transition: 750ms;
     -o-transition: 750ms;
     transition: 750ms;
