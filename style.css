@@ -61,10 +61,10 @@ button {
     font-size: 16px;
 }
 img.llbzoom:hover {
-    -ms-transform: scale(1.5); /* IE 9 */
-    -webkit-transform: scale(1.5); /* Safari 3-8 */
-    transform: scale(1.5);
-    transition: 0.5s all ease-in-out;
+    -ms-transform: scale(1); /* IE 9 */
+    -webkit-transform: scale(1); /* Safari 3-8 */
+    transform: scale(1);
+    transition: 1.8s all ease-in-out;
     cursor: pointer !important;
 }
 .grid-container {
