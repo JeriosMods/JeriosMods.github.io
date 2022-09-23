@@ -16,10 +16,7 @@ img.jerios {
     width: 50%;
 }
 img.jerioslogo {
-    display: block; 
-    margin-left: 50; 
-    margin-right: 50; 
-    width: 50%;
+    float: left;
 }
 ul{
     list-style-type: none;
@@ -43,7 +40,16 @@ body {
     background-color: black; 
     color: white ;
 }
-a:hover {
+a.homemod:hover {
+    -webkit-transition: 750ms;
+    -o-transition: 750ms;
+    transition: 750ms;
+    color: red;
+    list-style: none;
+    border-bottom: 5px solid rgb(4, 0, 255);
+    width: 20px;
+}
+a.navmods:hover {
     -webkit-transition: 750ms;
     -o-transition: 750ms;
     transition: 750ms;
