@@ -41,9 +41,7 @@ body {
     background-color: black; 
     color: white ;
 }
-a:hover{
-    -webkit-transition: 750ms;
-    -o-transition: 750ms;
+a:hover {
     transition: 750ms;
     color: red;
     list-style: none;
