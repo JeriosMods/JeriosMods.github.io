@@ -42,13 +42,17 @@ body {
     background-color: black;
     color: white;
 }
-a:hover {
+a:hover,button:focus {
     transition: 750ms;
     color: red;
     list-style: none;
     border-bottom: 5px solid rgb(4, 0, 255);
     width: 20px;
 }
+a:active {
+    transform: scale(0.99);
+}
+
 input:hover {
     background-color: 7f7f7f;
     -webkit-transition: 1000ms;
