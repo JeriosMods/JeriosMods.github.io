@@ -40,6 +40,7 @@
     <meta http-equiv="Set-Cookie" content="session" />
 </head>
   <body> 
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
     <div class="jerioslogo">
           <img src="20220707_211832_0000.png" alt="" width="150">
     </div>
@@ -52,13 +53,27 @@
 <div data-aos="fade-up" data-aos-duration="10500" >
 <h1 style="color: red;">👋Hello and welcome We are </h1>
 <div class="container">
-  <img src="20220707_211832_0000.png" alt="Snow" style="width:50%;">
-    <br><br>
-    <h1 style="color: blue;">We at Jerios Mods make mods for passion not for money or fame</h1>
+<div id="typed-strings">
+  <p>Developing<strong>mods</strong> for passion.</p>
+  <p>we  <em>don't</em> make mods for money.</p>
+</div>
+<span id="typed"></span>
   </div>
 </div>
      <br>
     </div>
+
+    <script>
+      var typed = new Typed('#typed', {
+        stringsElement: '#typed-strings',
+        backSpeed: 60,
+        typeSpeed: 60
+      });
+    </script>
+
+    
+
+
 <br>
 <br>
 <div data-aos="fade-down" data-aos-duration="10500">
