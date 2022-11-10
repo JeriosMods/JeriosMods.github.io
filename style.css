@@ -79,12 +79,9 @@ button {
     display: inline-block;
     font-size: 16px;
 }
-span{
+#typed{
     color: blue;
-    font-size: 12px;
-    justify-content: center;
-    align-items: center;
-    display: flex;
+    font-size: 16px;
 }
 
 input[type=text], select, textarea {
