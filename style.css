@@ -3,6 +3,10 @@ p {
     margin-top: 0;
     margin-bottom: 1rem;
 }
+.jerios-mods {
+    color: red;
+    font-size: 20px;
+}
 body {
     font-family: "Arimo", sans-serif;
     font-family: "Inter", sans-serif;
