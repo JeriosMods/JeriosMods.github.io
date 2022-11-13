@@ -42,7 +42,6 @@ p {
 }
 body {
     text-align: center;
-    cursor: url(mc_cursor.png), auto;
     background-color: black;
     color: white;
 }
