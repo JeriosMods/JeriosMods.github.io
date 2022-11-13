@@ -98,7 +98,7 @@ input[type=text],[type=email],[type=name], select, textarea {
     background-color: #7f7f7f;
   }
   span#typed-cursor {
-    display: inline;
-    height: 40px;
-    min-height: 40px;
+    display:inline !important;
+    height: 40px !important;
+    min-height: 40px !important;
   }
